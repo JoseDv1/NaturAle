@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1016108643827",
+    "project_id": "naturale-app",
+    "storage_bucket": "naturale-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016108643827:android:73e9dc5e60db107cde4e86",
+        "android_client_info": {
+          "package_name": "com.example.naturale_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016108643827-konnv20k2i89usopcjf2k23fhrbpksrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsh5ADvegqY2m1bl2nua6ppk_Os8LmjLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016108643827-konnv20k2i89usopcjf2k23fhrbpksrl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016108643827-n9cnp15c8ih1ijqudo87hcp54fn032d8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.naturaleApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
